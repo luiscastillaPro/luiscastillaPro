@@ -42,9 +42,26 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 # Ruta de estudio autodidacta en programacion
 
 ## HTML5 Para PRINCIPIANTES
-
+<table style="width:100%">
+<tr>
+<td>
 ![image](https://github.com/user-attachments/assets/2270b2d6-a2ce-4842-bb97-0cf2b9835319)
+</td>
+<td>
 ![image](https://github.com/user-attachments/assets/4efd90f0-af7e-414c-8e4a-6916a13ca038)
+</td>
+<td>
+<a href="https://youtu.be/3GymExBkKjE">
+<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
+</a>
+</td>
+</tr>
+</table>
+
+
+
+
+
 
 ## CSS BÁSICO Para PRINCIPIANTES
 
