@@ -1,7 +1,6 @@
 # Hola, mi nombre es Luis Castilla 👋
 ### Desarrollador Web Full Stack junior
-
-![https://github.com/mouredev](./mouredev_github_profile.png)
+![foto de la portada 2_LE_auto_x2](https://github.com/user-attachments/assets/c90757c3-e373-48a0-9b0a-8b28170247ec)
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCxPD7bsocoAMq8Dj18kmGyQ?style=social)](https://youtube.com/mouredevapps?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/mouredev?style=social)](https://twitch.com/mouredev)
