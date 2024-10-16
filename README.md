@@ -41,9 +41,17 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 
 # Ruta de estudio autodidacta en programacion
 
-## Ruta de estudio programación
+## HTML5 Para PRINCIPIANTES
 
-<a href="https://retosdeprogramacion.com/roadmap"><img src="https://raw.githubusercontent.com/mouredev/roadmap-retos-programacion/main/Images/header.jpg" style="height: 60%; width:60%;"/></a>
+![image](https://github.com/user-attachments/assets/2270b2d6-a2ce-4842-bb97-0cf2b9835319)
+![image](https://github.com/user-attachments/assets/4efd90f0-af7e-414c-8e4a-6916a13ca038)
+
+## CSS BÁSICO Para PRINCIPIANTES
+
+![image](https://github.com/user-attachments/assets/ee83377c-2cc5-4e4a-bfe5-54c29ae75cf7)
+![image](https://github.com/user-attachments/assets/2a840b46-0011-4446-960d-a1800a0dcefc)
+![image](https://github.com/user-attachments/assets/5ce41674-0e6f-4d4b-90c2-a78c42680856)
+
 
 [![Roadmap](https://img.shields.io/github/stars/mouredev/roadmap-retos-programacion?label=Roadmap%20Programación&style=social)](https://github.com/mouredev/roadmap-retos-programacion)
 
