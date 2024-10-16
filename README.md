@@ -43,19 +43,28 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 
 ## HTML5 Para PRINCIPIANTES
 <table style="width:100%">
-<tr>
-<td>
-  <img src="![image](https://github.com/user-attachments/assets/c372ddc4-978c-469f-9c78-f9e40c3892eb)">
-</td>
-<td>
-<img src="https://github.com/user-attachments/assets/4efd90f0-af7e-414c-8e4a-6916a13ca038.jpg"
-</td>
-<td>
-<a href="https://youtu.be/3GymExBkKjE">
-<img src="http://i3.ytimg.com/vi/3GymExBkKjE/maxresdefault.jpg">
-</a>
-</td>
-</tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/c372ddc4-978c-469f-9c78-f9e40c3892eb" alt="Imagen 1" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/90219847-346a-4977-8cd4-03da868848ef" alt="Imagen 2" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/b2f11d6a-9d82-497e-927f-9782586d3176" alt="Imagen 3" width="400">
+    </td>
+    </tr>
+    <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/5ce3d07b-ba35-48db-99c2-ad323f6a3648" alt="Imagen 4" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/04000381-693a-4cf0-81a3-dfd0103cee07" alt="Imagen 5" width="400">
+    </td>
+    <td>
+        <img src="https://github.com/user-attachments/assets/1280abec-f093-442b-973a-01d0e06fc2d9" alt="Imagen 6" width="400">
+    </td>
+  </tr>
 </table>
 
 
