@@ -24,7 +24,7 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 [![Facebook](https://img.shields.io/badge/Facebook-@luis.castillav30-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/luis.castillav30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luiscastillav30-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luiscastillav30/)
 
-# Ruta de estudio autodidacta en programacion
+# Trayectoria de Aprendizaje Autodidacta en Programación
 
 ## HTML5 desde cero
 <table style="width:100%">
