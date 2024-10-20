@@ -142,3 +142,14 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 ## "Un día, un lenguaje: Los pequeños comienzos construyen grandes innovaciones."
 
 ## proximamente: RETO de 50 proyectos en 50 dias!!
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/24f944ec-8572-4db4-8764-04a4685e1584" alt="Imagen 1" width="400">
+    </td>
+  </tr>
+</table>
+
+
+
