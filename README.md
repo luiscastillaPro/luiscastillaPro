@@ -18,7 +18,7 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 
 [![YouTube](https://img.shields.io/badge/YouTube-LuisCoded-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@luiscoded)
 [![Discord](https://img.shields.io/badge/Discord-LuisCoded-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/UFfSJjVz)
-[![Instagram](https://img.shields.io/badge/Instagram-@luiis_castilla-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/luiscastilla/)
+[![Instagram](https://img.shields.io/badge/Instagram-@luiis_castilla-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=101010)](https://www.instagram.com/luis.castillav30/profilecard/?igsh=MTd6Nmlpc3lrOXoyMA==)
 </br>
 [![TikTok](https://img.shields.io/badge/TikTok-@Luis_castilla-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@luiscastilla?_t=8qeae7IuPwM&_r=1)
 [![Facebook](https://img.shields.io/badge/Facebook-@luis.castillav30-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/luis.castillav30)
