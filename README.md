@@ -24,6 +24,19 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 [![Facebook](https://img.shields.io/badge/Facebook-@luis.castillav30-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/luis.castillav30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luiscastillav30-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luiscastillav30/)
 
+## proximamente: RETO de 50 proyectos en 50 dias!!
+
+<table style="width:100%">
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/24f944ec-8572-4db4-8764-04a4685e1584" alt="Imagen 1" width="400">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/e19e7ce2-1b88-4fc3-a89d-c7e49798600e" alt="Imagen 1" width="400">
+    </td>
+  </tr>
+</table>
+
 # Trayectoria de Aprendizaje Autodidacta en Programación
 
 ## HTML5 desde cero
@@ -140,16 +153,6 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 </table>
 
 ## "Un día, un lenguaje: Los pequeños comienzos construyen grandes innovaciones."
-
-## proximamente: RETO de 50 proyectos en 50 dias!!
-
-<table style="width:100%">
-  <tr>
-    <td>
-      <img src="https://github.com/user-attachments/assets/24f944ec-8572-4db4-8764-04a4685e1584" alt="Imagen 1" width="400">
-    </td>
-  </tr>
-</table>
 
 
 
