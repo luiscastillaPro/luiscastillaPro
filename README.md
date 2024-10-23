@@ -29,13 +29,18 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 <table style="width:100%">
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/24f944ec-8572-4db4-8764-04a4685e1584" alt="Imagen 1" width="400">
+      <img src="https://github.com/user-attachments/assets/f5793848-c2b2-4846-b3f3-b42fc98e07b3" alt="Imagen 1" width="400">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/e19e7ce2-1b88-4fc3-a89d-c7e49798600e" alt="Imagen 1" width="400">
+      <img src="https://github.com/user-attachments/assets/9b1322ed-f1f4-4888-8d2f-731fa0e9c72d" alt="Imagen 2" width="400">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/25257e0c-add6-42dc-b060-c7f0663b3dde" alt="Imagen 1" width="400">
+      <img src="https://github.com/user-attachments/assets/6765eef2-73e9-40b4-9d4a-ec5c591a42f8" alt="Imagen 3" width="400">
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/343f805d-515a-4b96-8b6d-49cf31eb0283" alt="Imagen 4" width="400">
     </td>
   </tr>
 </table>
