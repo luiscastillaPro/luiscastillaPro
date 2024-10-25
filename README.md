@@ -45,6 +45,9 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
     <td>
       <img src="https://github.com/user-attachments/assets/39f0d128-3b83-4473-904e-9b76177210db" alt="Imagen 5" width="400">
     </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/3c3fd1ab-fd90-48ac-9c97-e4ac36c55be4" alt="Imagen 6" width="400">
+    </td>
   </tr>
 </table>
 
