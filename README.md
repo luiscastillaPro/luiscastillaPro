@@ -18,8 +18,9 @@ Estoy abierto a nuevas oportunidades y entusiasta por conectar con personas y em
 
 Puedes contactarme directamente a través de LinkedIn o en mi correo electrónico: luis.castillav30@gmail.com.
 
-## Encuéntrame en:
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
+## Encuéntrame en:
 
 [![YouTube](https://img.shields.io/badge/YouTube-LuisCoded-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@luiscoded)
 [![Discord](https://img.shields.io/badge/Discord-LuisCoded-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/UFfSJjVz)
