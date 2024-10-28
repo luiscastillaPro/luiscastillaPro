@@ -32,7 +32,7 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-## proximamente: RETO de 50 proyectos en 50 dias!!
+## proximamente: RETO de 50 mini proyectos en 50 dias!!
 
 <table style="width:100%">
   <tr>
