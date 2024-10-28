@@ -1,6 +1,10 @@
 # Hola, mi nombre es Luis Castilla 👋
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 ### Desarrollador Web Full Stack junior
 ![ Luis Castilla   (8)](https://github.com/user-attachments/assets/ecf2ae91-b70a-4206-aae9-ca18bd6e6b4a)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 Soy Full Stack Developer con formación en programación y desarrollo web, recientemente graduado de un bootcamp donde adquirí experiencia práctica en tecnologías como HTML, CSS, JavaScript, React, Node.js, Python, SQL, SQLAlchemy, Bootstrap, Git, GitHub, Flask, Authentication JWT y Jest. Durante mi formación, he desarrollado habilidades tanto en el frontend como en el backend, lo que me permite tener una visión completa del ciclo de desarrollo de software.
 
@@ -15,6 +19,7 @@ Estoy abierto a nuevas oportunidades y entusiasta por conectar con personas y em
 Puedes contactarme directamente a través de LinkedIn o en mi correo electrónico: luis.castillav30@gmail.com.
 
 ## Encuéntrame en:
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-LuisCoded-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=101010)](https://www.youtube.com/@luiscoded)
 [![Discord](https://img.shields.io/badge/Discord-LuisCoded-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=101010)](https://discord.gg/UFfSJjVz)
@@ -23,6 +28,8 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
 [![TikTok](https://img.shields.io/badge/TikTok-@Luis_castilla-69C9D0?style=for-the-badge&logo=tiktok&logoColor=white&labelColor=101010)](https://www.tiktok.com/@luiscastilla?_t=8qeae7IuPwM&_r=1)
 [![Facebook](https://img.shields.io/badge/Facebook-@luis.castillav30-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=101010)](https://www.facebook.com/luis.castillav30)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-luiscastillav30-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/luiscastillav30/)
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 ## proximamente: RETO de 50 proyectos en 50 dias!!
 
@@ -51,7 +58,11 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
   </tr>
 </table>
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
 # Trayectoria de Aprendizaje Autodidacta en Programación
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ## HTML5 desde cero
 <table style="width:100%">
@@ -79,6 +90,8 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 ## CSS BÁSICO Para principiantes
 <table style="width:100%">
   <tr>
@@ -97,6 +110,8 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 ## javasript desde cero
 <table style="width:100%">
   <tr>
@@ -111,6 +126,8 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ## Python desde cero
 
@@ -131,6 +148,8 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+
 ## SQL y bases de datos
 
 <table style="width:100%">
@@ -146,6 +165,8 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
     </td>
   </tr>
 </table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ## Git & GitHub desde cero
 
@@ -166,7 +187,10 @@ Puedes contactarme directamente a través de LinkedIn o en mi correo electrónic
   </tr>
 </table>
 
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif"/>
+
 ## "Un día, un lenguaje: Los pequeños comienzos construyen grandes innovaciones."
+
 
 
 
