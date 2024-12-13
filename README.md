@@ -8,7 +8,7 @@
 
 Soy Full Stack Developer con formación en programación y desarrollo web, recientemente graduado de un bootcamp donde adquirí experiencia práctica en tecnologías como HTML, CSS, JavaScript, React, Node.js, Python, SQL, SQLAlchemy, Bootstrap, Git, GitHub, Flask, Authentication JWT y Jest. Durante mi formación, he desarrollado habilidades tanto en el frontend como en el backend, lo que me permite tener una visión completa del ciclo de desarrollo de software.
 
-mi pasión por la tecnología siempre ha sido el motor de mi desarrollo profesional. Realicé un técnico en programación en Colombia, y aunque no lo ejercí de inmediato, mi deseo de aprender me llevó a seguir actualizándome en las últimas tecnologías.
+Mi pasión por la tecnología siempre ha sido el motor de mi desarrollo profesional. Realicé un técnico en programación en Colombia, y aunque no lo ejercí de inmediato, mi deseo de aprender me llevó a seguir actualizándome en las últimas tecnologías.
 
 Soy una persona autodidacta, disciplinada y enfocada en el aprendizaje continuo. Me encanta trabajar en equipo, compartir ideas y aprender de los demás, lo que me hace adaptable y abierto a colaborar en entornos dinámicos.
 
