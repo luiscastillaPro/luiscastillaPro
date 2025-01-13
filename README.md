@@ -2,7 +2,7 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-### Desarrollador Web Full Stack junior
+### Desarrollador Web Full Stack
 ![ Luis Castilla   (8)](https://github.com/user-attachments/assets/ecf2ae91-b70a-4206-aae9-ca18bd6e6b4a)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
