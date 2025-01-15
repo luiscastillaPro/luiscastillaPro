@@ -6,7 +6,7 @@
 ![ Luis Castilla   (8)](https://github.com/user-attachments/assets/ecf2ae91-b70a-4206-aae9-ca18bd6e6b4a)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
-Soy Full Stack Developer con formación en programación y desarrollo web, recientemente graduado de un bootcamp donde adquirí experiencia práctica en tecnologías como HTML, CSS, JavaScript, React, Node.js, Python, SQL, SQLAlchemy, Bootstrap, Git, GitHub, Flask, Authentication JWT y Jest. Durante mi formación, he desarrollado habilidades tanto en el frontend como en el backend, lo que me permite tener una visión completa del ciclo de desarrollo de software.
+Soy Full Stack Developer con formación en programación y desarrollo web, con experiencia práctica en tecnologías como HTML, CSS, JavaScript, React, Node.js, Python, SQL, SQLAlchemy, Bootstrap, Git, GitHub, Flask, Authentication JWT y Jest. Durante mi formación, he desarrollado habilidades tanto en el frontend como en el backend, lo que me permite tener una visión completa del ciclo de desarrollo de software.
 
 Mi pasión por la tecnología siempre ha sido el motor de mi desarrollo profesional. Realicé un técnico en programación en Colombia, y aunque no lo ejercí de inmediato, mi deseo de aprender me llevó a seguir actualizándome en las últimas tecnologías.
 
